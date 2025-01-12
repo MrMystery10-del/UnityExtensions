@@ -3,8 +3,8 @@ Simple UnityExtensions to speed up your development workflow
 
 ## Usage
 Download this repository as a zip and extract all the files in your assets folder. Make sure to create a folder called Misc and in it another folder called UnityExtensions and extract it there.
-You can also use a different project structur, just make sure to adjust the namespaces then. If you want to use assemblies(recommended), adjust the YourProjectName.Misc.UnityExtensions.asmdef file name and the content inside to your project name!
-if you dont want to use assemblies, just delete that file.
+You can also use a different project structure, just make sure to adjust the namespaces then. If you want to use assemblies(recommended), adjust the YourProjectName.Misc.UnityExtensions.asmdef file-name and the content inside to your project name!
+If you dont want to use assemblies, just delete that file.
 
 ## Examples
 ### SingletonMonoBehaviour:
